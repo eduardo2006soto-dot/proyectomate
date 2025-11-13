@@ -24,7 +24,7 @@
 
 ---
 
-### 🚀 *“Aprender logica es aprender a pensar.”*
+### 🚀 *“La naturaleza está escrita en lenguaje matemático.”*
 
 </div>
 
