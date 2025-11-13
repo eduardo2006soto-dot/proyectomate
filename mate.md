@@ -6,3 +6,9 @@
 | 🧪 [**APE**](https://github.com/eduardo2006soto-dot/proyectomate/blob/main/ape.md)  | *Aprendizaje Práctico Experimental* — Actividades de laboratorio, simulaciones y desarrollo de ejercicios. |
 | 📖 [**AA**](https://github.com/eduardo2006soto-dot/proyectomate/blob/main/aa.md)    | *Aprendizaje Autónomo* — Estudio individual, investigaciones y elaboración de tareas personales. |
 
+<div align="center">
+
+[🏠 **Volver al inicio del portafolio**](https://github.com/eduardo2006soto-dot/proyectomate/blob/main/intro.md)
+
+</div>
+
