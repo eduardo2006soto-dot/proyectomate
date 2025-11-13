@@ -16,7 +16,7 @@
 
 | Unidad | Descripción |
 |:-------:|:-------------|
-| 📘 **Unidad 1** | LÓGICA MATEMÁTICA.  |
+| 📘 [**Unidad 1**](https://github.com/eduardo2006soto-dot/proyectomate/blob/main/mate.md) | LÓGICA MATEMÁTICA.  |
 | ⚙️ **Unidad 2** | En proceso... |
 | 🧠 **Unidad 3** | En proceso... |
 | 🧾 **Conclusión** | Reflexión final del aprendizaje |
